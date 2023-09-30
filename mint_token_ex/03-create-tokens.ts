@@ -16,7 +16,7 @@ async function main() {
         keyPair,
         publicKey,
         publicKey,
-        9
+        237
     )
     console.log(tokenMint.toBase58());
 }
